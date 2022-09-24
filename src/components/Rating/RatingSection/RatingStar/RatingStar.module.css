@@ -1,0 +1,26 @@
+.cardRatingValuesNotSelected {
+  width: 20%;
+  border-radius: 50%;
+  padding: 1em;
+  margin: 0.2rem;
+  background: hsla(216, 12%, 54%, 0.515);
+  color: hsl(217, 12%, 63%);
+  text-align: center;
+  cursor: pointer;
+}
+
+.cardRatingValuesNotSelected:hover {
+  background: hsl(25, 97%, 53%);
+  color: white;
+}
+
+.cardRatingValuesIsSelected {
+  width: 20%;
+  border-radius: 50%;
+  padding: 1em;
+  margin: 0.2rem;
+  background: white;
+  color: hsl(25, 97%, 53%);
+  text-align: center;
+  cursor: pointer;
+}

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+.card {
+  display: flex;
+  flex-direction: column;
+  min-height: 350px;
+  min-width: 280px;
+  max-width: 450px;
+  background: hsl(213, 19%, 18%);
+  margin: 0 1rem;
+  padding: 2rem;
+  border-radius: 1em;
+  font-size: 1rem;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.iconStar {
+  border-radius: 50%;
+  background: hsla(216, 12%, 54%, 0.515);
+  max-width: 20px;
+  max-height: 20px;
+  padding: 0.5rem;
+}
+
+.cardTitle {
+  font-weight: 700;
+  color: white;
+  margin: 0;
+  margin-top: 1.5rem;
+}
+
+.cardFeedback {
+  color: hsl(217, 12%, 63%);
+  margin: 0;
+  margin-top: 1.5rem;
+}
+
+.cardButton {
+  padding: 1rem;
+  background: hsl(25, 97%, 53%);
+  color: white;
+  border: 0;
+  border-radius: 2em;
+  text-transform: uppercase;
+  margin: 0;
+  margin-top: 1.5rem;
+  letter-spacing: 0.2em;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 700;
+}
+
+.cardButton:hover {
+  background: white;
+  color: hsl(25, 97%, 53%);
+}
+
+.iconThankYou {
+  margin-bottom: 1rem;
+}
+
+.ratingResult {
+  color: hsl(25, 97%, 53%);
+  background: grey;
+  margin: 1rem 0;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  font-size: .8rem;
+  text-align: center;
+  font-weight: 700;
+}
+
+.votedTitle {
+  font-size: 1.5rem;
+  text-align: center;
+  color: white;
+  margin: 0;
+  font-weight: 700;
+  padding: 0.3rem;
+}
+
+.votedDescription {
+  font-size: 1rem;
+  text-align: center;
+  color: hsl(217, 12%, 63%);
+  margin: 0;
+  padding: 0.3rem;
+}
