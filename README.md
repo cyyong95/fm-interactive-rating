@@ -31,12 +31,12 @@ Desktop Thank you view
 ![interactive rating mobile design clone](screenshots/screenshot-mobile-view.png)  
 Mobile view
 
-![interactive rating mobile thank you design clone](screenshots/screenshot-mobile-thank-you-view.png)
+![interactive rating mobile thank you design clone](screenshots/screenshot-mobile-thank-you-view.png)  
 Mobile Thank you view
 
 ### Links
 
-- Live Site URL: [Vercel](x)
+- Live Site URL: [Vercel](https://fm-interactive-rating-1wya-in9dxd3jf-cyyong95.vercel.app)
 
 ## My process
 
